@@ -1,0 +1,13 @@
+@import "~antd/dist/antd.css";
+
+$primary: #dcedc8;
+$secondary: #558b2f;
+
+.app {
+  font-family: "Montserrat", cursive;
+  color: $secondary;
+  background-color: $primary;
+  padding: 2em;
+  height: 100vh;
+  width: 100vw;
+}

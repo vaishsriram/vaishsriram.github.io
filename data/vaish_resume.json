@@ -1,0 +1,81 @@
+{
+  "basics": {
+    "name": "Vaishnavi Sriram",
+    "label": "Technologist",
+    "picture": "#558b2f",
+    "email": "sriram.vaishnavi@gmail.com",
+    "phone": "(781) 975-2356",
+    "website": "https://vaishsriram.github.io",
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "vaishsriram",
+        "url": "http://github.com/vaishsriram"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Company",
+      "position": "President",
+      "website": "http://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description...",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Syracuse University",
+      "area": "Computer Science",
+      "studyType": "Master of Science (MS)",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "3.2",
+      "courses": [
+        "CIS 625 - Computer Graphics",
+        "CIS 657 - Principles of Operating Systems",
+        "CIS 600 - Networking and Data Security",
+        "CSE 651 - Mobile Application Programming",
+        "CIS 623 - Structured Programming and Formal Methods",
+        "CSE 655 - Advanced Computer Architecture",
+        "CIS 570 - Experience Credit",
+        "CIS 590 - Independent Study"
+      ]
+    },
+    {
+      "institution": "University of Madras",
+      "area": "Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "2005-07-01",
+      "endDate": "2009-05-01",
+      "gpa": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "DynamoDB",
+        "GraphQL",
+        "MS SQL Server"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
